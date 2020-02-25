@@ -1,0 +1,47 @@
+
+body{
+ background-image:url(dbzpattern.png);
+ 
+ 
+}
+#LeftPane{
+  
+  height: 20px;
+}
+footer{
+background-image:url(dbzpattern.jpg);
+height: 400px;
+
+}
+#blankblank{
+  height: 30px;
+}
+#bi{
+  background-image:url(dbz9.jpg);
+ 
+}
+img{
+  vertical-align: center;
+}
+#body{
+  background-color: orangered
+}
+h1{
+  text-align: center;
+  background-color:orange;
+}
+body{
+  background-color: orangered;
+}
+h3{
+  background-color:orange;
+  text-align:center;
+}
+#right{
+  background-color: red;
+
+}
+#rightside{
+  background-color: orange;
+  width: 800px;
+}
